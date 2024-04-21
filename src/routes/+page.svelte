@@ -1,3 +1,3 @@
-<header class="bg-black h-full w-full">
-	<h1 class="text-center text-white">Disflux avaible soon</h1>
-</header>
+<div class="bg-black min-h-screen">
+	<h1 class="grid place-items-center h-screen text-white text-5xl">Disflux avaible soon</h1>
+</div>
